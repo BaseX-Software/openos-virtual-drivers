@@ -1,6 +1,6 @@
 # OpenOS Virtual Drivers
 
-Virtual mouse + keyboard drivers for OpenOS by StaNLink Systems.
+Virtual mouse + keyboard drivers for OpenOS by BaseX Softwares.
 
 The OS sees real input devices. Not injected input.
 
@@ -27,4 +27,4 @@ The OS cannot distinguish these from real hardware input devices.
 
 ## License
 
-Proprietary. © StaNLink Systems.
+Proprietary. © BaseX Softwares.
